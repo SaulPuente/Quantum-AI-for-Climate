@@ -46,17 +46,9 @@ Team Member 3:
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-J3lMYgGIMA9JgT6
 
 
-Team Member 4:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
-
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+In this project we are exploring the different advances in the interaction of light with water droplets and clouds, involving AI and quantum computing techniques.
 
 ### Project Presentation Deck:
-_Upload/ Link a 3min. presentation deck here._
-
-See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
-
+[Presentation Deck](https://drive.google.com/file/d/1MDcISq61colGvNHmP-p4whIJB1hqQDET/view?usp=sharing)
+[Write UP](https://drive.google.com/file/d/1FWLxeWcD8P7Do5m5-q1jF6Bs4G6BS_I2/view?usp=sharing)
