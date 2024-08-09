@@ -51,4 +51,4 @@ In this project we are exploring the different advances in the interaction of li
 
 ### Project Presentation Deck:
 [Presentation Deck](https://drive.google.com/file/d/1MDcISq61colGvNHmP-p4whIJB1hqQDET/view?usp=sharing)
-[Write UP](https://drive.google.com/file/d/1FWLxeWcD8P7Do5m5-q1jF6Bs4G6BS_I2/view?usp=sharing)
+[Write UP](https://drive.google.com/file/d/1TFzX1DuZAvSNXB6UyecQ-aTiPH0wWO7B/view?usp=sharing)
